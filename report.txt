@@ -1,0 +1,275 @@
+Processing data for Karachi on Tue Nov 12 10:12:18 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Tue Nov 12 10:12:18 PM PKT 2024
+City: Karachi
+Temperature: 27.10 Celsius
+Weather: Partly cloudy
+Humidity: 70.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Tue Nov 12 10:12:45 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Tue Nov 12 10:12:45 PM PKT 2024
+City: Karachi
+Temperature: 27.10 Celsius
+Weather: Partly cloudy
+Humidity: 70.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Tue Nov 12 10:23:33 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Tue Nov 12 10:23:33 PM PKT 2024
+City: Karachi
+Temperature: 27.20 Celsius
+Weather: Partly cloudy
+Humidity: 70.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Tue Nov 12 10:36:06 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Tue Nov 12 10:36:06 PM PKT 2024
+City: Karachi
+Temperature: 27.10 Celsius
+Weather: Partly cloudy
+Humidity: 70.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Sat Nov 16 04:29:45 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Sat Nov 16 04:29:45 PM PKT 2024
+City: Karachi
+Temperature: 31.10 Celsius
+Weather: Partly cloudy
+Humidity: 38.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for New York on Sat Nov 16 04:32:57 PM PKT 2024
+Weather Report for New York
+--------------------------
+Date: Sat Nov 16 04:32:57 PM PKT 2024
+City: New York
+Temperature: 8.70 Celsius
+Weather: Sunny
+Humidity: 70.00%
+Consider indoor activities as the temperature is too cold.
+
+
+Processing data for New York on Sat Nov 16 04:33:29 PM PKT 2024
+Weather Report for New York
+--------------------------
+Date: Sat Nov 16 04:33:29 PM PKT 2024
+City: New York
+Temperature: 8.70 Celsius
+Weather: Sunny
+Humidity: 70.00%
+Consider indoor activities as the temperature is too cold.
+
+
+Processing data for Karachi on Sat Nov 16 04:33:57 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Sat Nov 16 04:33:57 PM PKT 2024
+City: Karachi
+Temperature: 31.10 Celsius
+Weather: Partly cloudy
+Humidity: 38.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Sat Nov 16 04:35:16 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Sat Nov 16 04:35:16 PM PKT 2024
+City: Karachi
+Temperature: 31.10 Celsius
+Weather: Partly cloudy
+Humidity: 38.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Islamabad on Sat Nov 16 04:35:30 PM PKT 2024
+Weather Report for Islamabad
+--------------------------
+Date: Sat Nov 16 04:35:30 PM PKT 2024
+City: Islamabad
+Temperature: 22.20 Celsius
+Weather: Sunny
+Humidity: 39.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 06:50:47 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 06:50:47 PM PKT 2024
+City: Karachi
+Temperature: 27.10 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 06:52:08 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 06:52:08 PM PKT 2024
+City: Karachi
+Temperature: 30 Celsius
+Weather: Sunny
+Humidity: 65%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 06:53:12 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 06:53:12 PM PKT 2024
+City: Karachi
+Temperature: 27.10 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 06:55:20 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 06:55:20 PM PKT 2024
+City: Karachi
+Temperature: 27.10 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 06:57:53 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 06:57:53 PM PKT 2024
+City: Karachi
+Temperature: 27.10 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 07:00:56 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 07:00:56 PM PKT 2024
+City: Karachi
+Temperature: 27.10 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 07:01:03 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 07:01:03 PM PKT 2024
+City: Karachi
+Temperature: 27.10 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 07:04:51 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 07:04:51 PM PKT 2024
+City: Karachi
+Temperature: 27.20 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 07:05:00 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 07:05:00 PM PKT 2024
+City: Karachi
+Temperature: 27.20 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 07:05:07 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 07:05:07 PM PKT 2024
+City: Karachi
+Temperature: 27.20 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 07:06:02 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 07:06:02 PM PKT 2024
+City: Karachi
+Temperature: 27.20 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 07:13:28 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 07:13:28 PM PKT 2024
+City: Karachi
+Temperature: 27.20 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 07:13:40 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 07:13:40 PM PKT 2024
+City: Karachi
+Temperature: 27.20 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 07:16:23 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 07:16:23 PM PKT 2024
+City: Karachi
+Temperature: 27.20 Celsius
+Weather: Mist
+Humidity: 42.00%
+The temperature is good for outdoor activities!
+
+
+Processing data for Karachi on Mon Nov 18 07:21:56 PM PKT 2024
+Weather Report for Karachi
+--------------------------
+Date: Mon Nov 18 07:21:56 PM PKT 2024
+City: Karachi
+Temperature: 26.10 Celsius
+Weather: Mist
+Humidity: 45.00%
+The temperature is good for outdoor activities!
+
+

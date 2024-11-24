@@ -12,7 +12,7 @@ temperature=$2
 weather_data=$3
 humidity_data=$4
 
-report_file="report.txt"
+report_file="/home/m-asad-navaid/Desktop/environmental_monitoring_project/report.txt"
 
 # Check if report.txt is writable
 if [ ! -w "$report_file" ] && [ -e "$report_file" ]; then
@@ -51,9 +51,13 @@ fi
     printf "\n\n"
 } >> "$report_file"
 
-# Check if notify-send is available, otherwise log to console
-if command -v notify-send > /dev/null 2>&1; then
-    notify-send "Data Processing Complete" "Data for $city has been processed. Report generated."
+if [ -n "$DISPLAY" ]; then
+    # We are in a graphical environment
+    if command -v notify-send > /dev/null 2>&1; then
+        notify-send "Data Processing Complete" "Data for $city has been processed. Report generated."
+    fi
 else
+    # We're in a non-graphical environment (like cron)
     echo "Data Processing Complete: Data for $city has been processed. Report generated."
 fi
+

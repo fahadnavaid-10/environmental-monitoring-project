@@ -72,7 +72,7 @@ void retrieveEnvironmentalData(const char *city) {
 
             // Prepare the command to call the shell script with data arguments
             char command[512];
-            snprintf(command, sizeof(command), "./process_data.sh '%s' %.2f '%s' %.2f",
+            snprintf(command, sizeof(command), "/home/m-asad-navaid/Desktop/environmental_monitoring_project/process_data.sh '%s' %.2f '%s' %.2f",
                      city, weather->temperature, weather->weather, weather->humidity);
             
             // Run the script with system()
